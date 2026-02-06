@@ -1,2 +1,13 @@
 # Customer-Churn-Prediction
-Customer churn prediction project using the Random Forest algorithm to classify customers based on historical data. The project demonstrates basic predictive learning, data preprocessing, and model evaluation using Python and Scikit-learn.
+This project predicts customer churn using a Random Forest machine learning algorithm.
+
+Technologies Used:
+- Python
+- Pandas
+- Scikit-learn
+
+Steps:
+1. Data preprocessing
+2. Train-test split
+3. Model training using Random Forest
+4. Model evaluation using accuracy and confusion matrix
